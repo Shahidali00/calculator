@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 
-// Replace var with let or const
 let fstvalue = "";
 let secvalue = "";
 let thdvalue = 0;
